@@ -9,7 +9,7 @@ Software Engineer :woman_technologist:
 
 ## More about me 
 
-:heart: Embroidery | :black_heart: Languages | :blue_heart: Programming
+:heart: Embroidery | :black_heart: Languages | :blue_heart: Programming | :cat: Louz
 
 <!-- - 🌱 I’m currently learning about Design Patterns and Dynamic Programming. -->
 <!-- - 🌱 I’m currently learning C# - Dotnet Framework. -->
